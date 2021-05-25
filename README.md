@@ -3,7 +3,7 @@ About r-dummies
 
 Home: http://www.decisionpatterns.com
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dummies-feedstock/blob/master/LICENSE.txt)
 
